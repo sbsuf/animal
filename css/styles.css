@@ -1,0 +1,27 @@
+#first {
+  display: none;
+}
+
+#second {
+  display: none;
+}
+
+.radio {
+  margin-top: 40px;
+  font-size: 60px;
+}
+
+.jumbotron {
+  background: transparent;
+  color: white;
+}
+
+
+
+
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../img/snake.jpg);
+  opacity: 0.7;
+}
